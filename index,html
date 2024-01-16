@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NutriSapiens</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header class="site-header inicio">
+        <div class="contenedor contenido-header">
+            <div class="barra">
+                <a href="/">
+                    <p2>NUTRISAPIENS</p2>
+                </a>
+
+                <div class="mobile-menu">
+                    <a href="#navegacion">
+                        <img src="img/barras.svg" alt="">
+                    </a>
+                </div>
+
+                <nav id="navegacion" class="navegacion">
+                    <a href="nosotros.html">Nosotros</a>
+                    <a href="Niños.html">Niños</a>
+                    <a href="Jovenes.html">Jovenes</a>
+                    <a href="Adultos.html">Adultos</a>
+                </nav>
+
+            </div>
+            <h1>La nutrición es una parte fundamental de cada etapa de nuestras vidas, encuentra todo lo necesario aquí</h1>
+        </div>
+    </header>
+
+    <section class="contenedor seccion">
+        <h2 class="fw-300 centrar-texto">¿Que es la nutrición?</h2>
+        <div class="iconos-nosotros">
+            <div class="icono">
+                <img src="img/icono1.svg" width="40px" alt="">
+                <h3>CONCEPTO</h3>
+                <p>La nutrición es el proceso mediante el cual los organismos obtienen y utilizan los nutrientes necesarios para su crecimiento, desarrollo y mantenimiento. 
+                    Los nutrientes son sustancias químicas que el cuerpo necesita para llevar a cabo diversas funciones, 
+                    como proporcionar energía, construir y reparar tejidos, 
+                    regular procesos metabólicos y mantener un buen estado de salud.</p>
+            </div>
+            <div class="icono">
+                <img src="img/icono2.svg" width="50px" alt="">
+                <h3>Importancia</h3>
+                <p>La nutrición es fundamental para el funcionamiento y desarrollo del cuerpo, proporcionando nutrientes esenciales para el crecimiento, regulando el peso, previniendo enfermedades, fortaleciendo el sistema inmunológico y contribuyendo al bienestar mental. 
+                    Una dieta equilibrada también promueve la longevidad y mejora la calidad de vida.
+                    Adoptar hábitos alimenticios saludables es esencial para un bienestar general.</p>
+            </div>
+            <div class="icono">
+                <img src="img/icono3.svg" width="30px" alt="">
+                <h3>Etapas</h3>
+                <p> En la infancia, la leche materna o fórmula es crucial para el crecimiento. 
+                    Durante la niñez y adolescencia, se requieren mayores cantidades de energía debido al rápido desarrollo. 
+                    En la adultez, mantener una dieta equilibrada es clave. 
+                    En la edad avanzada, ajustar la ingesta para satisfacer las necesidades cambiantes, como la atención a la salud ósea y muscular, es esencial. 
+                    Estas etapas se agruparan en tres secciones: NIÑOS, JOVENES, ADULTOS.</p>
+            </div>
+        </div>
+    </section>
+
+    <main class="seccion contenedor">
+        <h2 class="fw-300 centrar-texto">Etapas de vida</h2>
+        <div class="contenedor-anuncios">
+
+            <div class="anuncio">
+                <img src="img/inf.jpg" alt="">
+                <div class="contenido.anuncio">
+                    <h3>Infancia - Niñez </h3>
+                    <p> INFANCIA: Durante los primeros meses, la leche materna o fórmula proporciona nutrientes esenciales para el crecimiento.
+                        Introducción gradual de alimentos sólidos ricos en hierro y otros nutrientes a partir de los 6 meses.</p>
+                        NIÑEZ: Necesidades elevadas de energía, proteínas, calcio y otros nutrientes debido al crecimiento y desarrollo rápido.
+                        Fomentar una dieta equilibrada que incluya frutas, verduras, granos enteros y productos lácteos.
+                    </p>
+                        </li>
+                    </ul>
+                    <a href="Niños.html" class="boton boton-amarillo d-block">Saber más</a>
+                </div>
+            </div>
+            <div class="anuncio">
+                <img src="img/ado.jpg" alt="j">
+                <div class="contenido.anuncio">
+                    <h3>Pubertad - Juventud </h3>
+                    <p>PUBERTAD: Un rápido crecimiento y desarrollo, demandanda mayores cantidades de energía, proteínas, calcio y otros nutrientes cruciales. 
+                        Es fundamental asegurar una dieta equilibrada para satisfacer las demandas del cuerpo.</p>
+                    <p>JUVENTUD: La salud cerebral es esencial, por tanto, se recomienda la ingesta de ácidos grasos omega-3 y vitaminas del complejo B.
+                         La relación entre la nutrición y la actividad física son aspectos cruciales para promover una salud óptima en la juventud. 
+                    </p>
+                    <a href="Jovenes.html" class="boton boton-amarillo d-block">Saber más</a>
+                </div>
+            </div>
+            <div class="anuncio">
+                <img src="img/adulto.jpg" alt="">
+                <div class="contenido.anuncio">
+                    <h3>Adultos - Ancianos </h3>
+                    <p>ADUTLOS: Las necesidades nutricionales evolucionan efocandose 
+                        en mantener la salud y prevenir las enfermades realcionadas
+                        con el envejecimiento, por lo que se recomienda una dieta equlibrada.
+                        Se recomiendan comidas sanas y bajar la ingesta de chatarra.
+                     </p>
+                    <p>ANCIANOS: En el caso de los adutlos mayores, su dieta debe de ser bastante
+                        equilibrada debido a su avanzada edad,p por lo que se recomienda la orentación de profesionales de la salud
+                        para una planificacion nutricional personalizada.
+                    </p>
+                    <a href="Adultos.html" class="boton boton-amarillo d-block">Saber más</a>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <section class="imagen-contacto">
+        <div class="contenedor contenido-contacto">
+            <h2>NUTRISAPIENS</h2>
+            <p>Porque tu salud, nos importa</p>
+            <a href="https://www.facebook.com/CENVILLARREAL/?locale=es_LA" class="boton boton-amarillo">Contactanos</a>
+        </div>  
+    </section>
+
+    <h3 class="centrar-texto fw-300">Mas información</h3>
+    <div class="seccion-inferior contenedor seccion">
+
+        <section class="blog">
+            <article class="entrada-blog">
+                <div class="imagen">
+                    <img src="img/log1.jpg" alt="">
+                </div>
+                <div class="texto-entrada">
+                    <a href="https://www.uv.mx/personal/lbotello/files/2017/02/conceptos_basicos_de_nutricion-1.pdf">
+                        <h4>CONCEPTOS BÁSICOS DE NUTRICIÓN</h4>
+                    </a>
+                    <p>Escrito el: <span>20/02/2017</span> por: <span>LIC. NUT. ALEXANDRA GUERRERO</span></p>
+                    <p>Deseas saber mas sobre los conceptos e ideas basicas para una correcta nutrición?                        
+                    </p>
+                </div>  
+            </article>
+            <article class="entrada-blog">
+                <div class="imagen">
+                    <img src="img/log2.jpg" alt="">
+                </div>
+                <div class="texto-entrada">
+                    <a href="https://www.ucm.es/data/cont/docs/458-2013-08-18-cap-22-dietas-adelgazamiento.pdf">
+                        <h4>DIETAS DE ADELGAZAMIENTO</h4>
+                    </a>
+                    <p>Escrito el: <span>20/11/2022</span> por: <span>ÁNGELES CARBAJAL AZCONA</span></p>
+                    <p>Una guía de como tranformar tu dieta de manera segura para los que desean adelgazar.</p>
+                </div>  
+            </article>
+        </section>
+        <section class="blog">
+            <article class="entrada-blog">
+                <div class="imagen">
+                    <img src="img/log3.jpg" alt="">
+                </div>
+                <div class="texto-entrada">
+                    <a href="https://cnp.org.pe/wp-content/uploads/2020/04/CNP-CUARENTENA-ALIMENTACI%C3%93N-SALUDABLE.pdf">
+                        <h4>ALIMENTACIÓN
+                            SALUDABLE</h4>
+                    </a>
+                    <p>Escrito el: <span>10/04/2020</span> por: <span>COLEGIO NUTRICIONISTAS DEL PERÚ</span></p>
+                    <p>Aquí se muestra comida delciosa y sana para mejorar nuestra sistema inmunológico en tiempos de COVID-19.</p>
+                </div>  
+            </article>
+            <article class="entrada-blog">
+                <div class="imagen">
+                    <img src="img/log4.jpg" alt="">
+                </div>
+                <div class="texto-entrada">
+                    <a href="https://www.bizkaia.eus/home2/archivos/DPTO4/Temas/1_%20LIBRO%20NUTRICIONPARTE%20CASTELLANO.pdf?hash=5707863bb92e4e9baaf4736d36dcd3c9&idioma=CA">
+                        <h4>NUTRICIÓN DEPORTIVA</h4>
+                    </a>
+                    <p>Escrito el: <span>05/07/2016</span> por: <span>JAVIER SERRA ISPIZUA</span></p>
+                    <p>Para todos aquellos que planean convertirse en deportias profesionales o simplemente rendir mejor en los deportes.</p>
+                </div>  
+            </article>
+        </section>
+
+    </div>
+
+    <footer class="site-footer seccion">
+        <div class="contenedor contenedor-footer">
+            <nav class="navegacion">
+                <a href="nosotros.html">Nosotros</a>
+                <a href="Niños.html">Niños</a>
+                <a href="Jovenes.html">Jovenes</a>
+                <a href="Adultos.html">Adultos</a>
+            </nav>
+            <p class="copyright">Todos los derechos reservados 2023 &copy;</p>
+        </div>
+    </footer>
+
+    
+</body>
+</html>
